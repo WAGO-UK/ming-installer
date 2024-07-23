@@ -23,7 +23,7 @@ G - Grafana<br>
 2. log in with root credentials (default password: wago)
 
 3. run the below command to copy script from this repository:<br>
-    `curl -s  https://raw.githubusercontent.com/WAGO-UK/ming-installer/main/ming_installer.sh`
+    `curl -s  https://raw.githubusercontent.com/WAGO-UK/ming-installer/main/ming_installer.sh >ming_installer.sh`
 
 4. run the below command to start the script:<br>
     `sh ming_installer.sh`
